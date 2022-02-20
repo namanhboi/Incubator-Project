@@ -1,3 +1,0 @@
-# Incubator-Project
-
-Goodbye Odin!
